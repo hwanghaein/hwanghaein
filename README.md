@@ -18,13 +18,11 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi!%20I'm%20Hyein!&fontColor=FFFFFF&animation=scaleIn&fontSize=90&fontAlignY=38)
 <div align="center">
-<br>
 <h3> ✨ Frontend-end-Stack ✨ </h3>
 <p>
  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 </p>
-</br>
 <br>
 <h3>🌈 Follow Me 🌈</h3>
 <p>
