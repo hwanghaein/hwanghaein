@@ -84,7 +84,7 @@
 <br>
 
 ## 📈 My Github Stats 📈
-[![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/hwanghaein&count_bg=%E5CCFF&title_bg=FFCCFF&icon=&icon_color=23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/hwanghaein&count_bg=B266FF&title_bg=FFCCFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![haein's github stats](https://github-readme-stats.vercel.app/api?username=hwanghaein&count_private=true&custom_title=Haein's%20Github&bg_color=360,B266FF,E5CCFF,FFCCFF&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/hwanghaein/github-readme-stats)
 
