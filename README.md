@@ -53,10 +53,10 @@
 ### Management 
   <div>
   <img src="https://img.shields.io/badge/Git-F05032?style=flate&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github-181717?style=flat-&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/notion-0000006?style=flat&logo=notion&logoColor=white"/>
-  <!--<img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white"/>-->
-  <!-- <img src="https://img.shields.io/badge/tistory-000000?style=flat&logo=tistory&logoColor=white"/> -->
+  <img src="https://img.shields.io/badge/Github-181717?style=flat-&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-0000006?style=flat&logo=notion&logoColor=white"/>
+  <!--<img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white"/>-->
+  <!-- <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white"/> -->
   </div>
 
 <br>
@@ -69,8 +69,8 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SCSS-FFCA28?style=flat&logo=SCSS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Recoil-FFCA28?style=flat&logo=Recoil&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SCSS-646CFF?style=flat&logo=SCSS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Recoil-764ABC?style=flat&logo=Recoil&logoColor=white"/>
   </div>
 
 <br>
