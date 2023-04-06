@@ -12,7 +12,7 @@
 
 ## ✨ Tech Stack ✨
 
-### ✨ UI library ✨
+### UI library 
  <p>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
  
@@ -31,7 +31,7 @@
 
 <br>
 
-### ✨ Styling ✨
+### Styling
  <p>
   <img src="https://img.shields.io/badge/Css Modules-000000?style=flat-square&logo=cssmodules&logoColor=white"/>
  
@@ -50,7 +50,7 @@
 
 <br>
 
-### ✨ Rendering ✨
+### Rendering 
  <p>
 
   <img src="https://img.shields.io/badge/CRA-09D3AC?style=flat-square&logo=createreactapp&logoColor=white"/> 
@@ -60,7 +60,7 @@
 
 <br>
 
-### ✨ Management  ✨
+### Management 
  <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
@@ -72,7 +72,7 @@
 
 <br>
 
-### ✨ Studying...  ✨
+## ✨ Studying...  ✨
  
  
   
