@@ -89,5 +89,6 @@
 
 [![haein's github stats](https://github-readme-stats.vercel.app/api?username=hwanghaein&count_private=true&custom_title=Haein's%20Github&bg_color=360,B266FF,E5CCFF,FFCCFF&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/hwanghaein/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwanghaein&layout=compact)](https://github.com/hwanghaein/github-readme-stats)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
