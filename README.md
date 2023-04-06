@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 </p>
 
 
-***
+---
 ###✨ Styling ✨
  <p>
   <img src="https://img.shields.io/badge/Css Modules-000000?style=flat-square&logo=cssmodules&logoColor=white"/>
