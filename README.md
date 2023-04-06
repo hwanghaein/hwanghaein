@@ -34,7 +34,7 @@
 
 <br>
 
-#### Routing
+#### *Routing*
  <div>
  <img src="https://img.shields.io/badge/React Router-CA4245?style=flat&logo=reactrouter&logoColor=white"/>✏️ 
  <img src="https://img.shields.io/badge/Next.js-F7DF1E?style=flat&logo=Next.js&logoColor=white"/>✏️
@@ -42,7 +42,7 @@
 
 <br>
 
-#### Rendering 
+#### *Rendering* 
   <div>
   <img src="https://img.shields.io/badge/CRA-09D3AC?style=flat&logo=createreactapp&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
@@ -50,7 +50,7 @@
 
 <br>
 
-#### Management 
+#### *Management* 
   <div>
   <img src="https://img.shields.io/badge/Git-F05032?style=flate&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Github-181717?style=flat-&logo=github&logoColor=white"/>
