@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...&
 -->
 
-<div align="center">
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi!%20I'm%20Hyein!&fontColor=FFFFFF&animation=scaleIn&fontSize=90&fontAlignY=38)
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi!%20I'm%20Hyein!&fontColor=FFFFFF&animation=scaleIn&fontSize=90&fontAlignY=38)
+<div align="center">
 <br>
 <h3> ✨ Frontend-end-Stack ✨ </h3>
 <p>
