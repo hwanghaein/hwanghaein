@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 <br>I'm Haein Hwang, a junior front-end developer.:hatched_chick: </br>
  </h3>
 
---------------------------------------
-###✨ UI library ✨
+## ✨ UI library ✨
  <p>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
  
@@ -41,8 +40,8 @@ Here are some ideas to get you started:
 </p>
 
 
----
-###✨ Styling ✨
+
+## ✨ Styling ✨
  <p>
   <img src="https://img.shields.io/badge/Css Modules-000000?style=flat-square&logo=cssmodules&logoColor=white"/>
  
@@ -50,8 +49,7 @@ Here are some ideas to get you started:
  </p>
 
 
---------------------------------------
-###✨ Routing ✨
+## ✨ Routing ✨
  <p>
   <img src="https://img.shields.io/badge/React Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white"/>:pencil2: 
 
@@ -59,8 +57,8 @@ Here are some ideas to get you started:
 </p>
 
 
---------------------------------------
-###✨ Rendering ✨
+
+## ✨ Rendering ✨
  <p>
 
   <img src="https://img.shields.io/badge/CRA-09D3AC?style=flat-square&logo=createreactapp&logoColor=white"/> 
@@ -69,8 +67,7 @@ Here are some ideas to get you started:
 </p>
 
 
---------------------------------------
-###✨ Management  ✨
+## ✨ Management  ✨
  <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
@@ -81,8 +78,7 @@ Here are some ideas to get you started:
 
 
 
---------------------------------------
-###✨ Studying...  ✨
+## ✨ Studying...  ✨
  
  
   
@@ -101,8 +97,8 @@ SCSS, Recoil.
  
  </p>
  
- --------------------------------------
-###🌈 Follow Me 🌈
+
+## 🌈 Follow Me 🌈
 <p>
   <a href=""><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/"/></a>&nbsp
   <a href="https://www.instagram.com/haeini_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/haeini_/"/></a>&nbsp
