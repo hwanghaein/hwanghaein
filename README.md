@@ -40,7 +40,7 @@
 
 <br>
 
-### ✨ Routing ✨
+### Routing
  <p>
   <img src="https://img.shields.io/badge/React Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white"/>:pencil2: 
 
@@ -99,6 +99,12 @@ SCSS, Recoil.
   <a href="mailto:dlsdl9037@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dlsdl9037@gmail.com"/></a>
 </p>
 
+</div>
+
+## ✨ My Github Stats ✨
+<div align="center">
+
+[![hwanghaein's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwanghaein&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/hwanghaein/github-readme-stats)
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
