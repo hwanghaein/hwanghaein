@@ -55,6 +55,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flate&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Github-181717?style=flat-&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-0000006?style=flat&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vscode-007ACC?style=flat&logo=Vscode&logoColor=white"/>
   <!--<img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white"/>-->
   <!-- <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white"/> -->
   </div>
