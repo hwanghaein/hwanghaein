@@ -70,8 +70,8 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SCSS-646CFF?style=flat&logo=SCSS&logoColor=white"/>✏️
-  <img src="https://img.shields.io/badge/Recoil-764ABC?style=flat&logo=Recoil&logoColor=white"/>✏️
+  <img src="https://img.shields.io/badge/SCSS-646CFF?style=flat&logo=SCSS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Recoil-764ABC?style=flat&logo=Recoil&logoColor=white"/>
   </div>
 
 <br>
