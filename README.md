@@ -85,9 +85,9 @@
 
 ## 📈 My Github Stats 📈
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhwanghaein&count_bg=%23FFA8EF&title_bg=%23D1A0FF&icon=tencentqq.svg&icon_color=%FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhwanghaein&count_bg=%23FFA8EF&title_bg=%23D1A0FF&icon=tencentqq.svg&icon_color=%23F876E3&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![haein's github stats](https://github-readme-stats.vercel.app/api?username=hwanghaein&count_private=true&custom_title=Haein's%20Github&bg_color=360,B266FF,E5CCFF,FFCCFF&title_color=%FFFFFF&text_color=FFFFFF)](https://github.com/hwanghaein/github-readme-stats)
+[![haein's github stats](https://github-readme-stats.vercel.app/api?username=hwanghaein&count_private=true&custom_title=Haein's%20Github&bg_color=360,B266FF,E5CCFF,FFCCFF&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/hwanghaein/github-readme-stats)
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
