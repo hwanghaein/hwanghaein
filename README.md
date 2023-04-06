@@ -84,7 +84,7 @@
 <br>
 
 ## 📈 My Github Stats 📈
-[![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/hwanghaein&count_bg=B266FF&title_bg=FFCCFF&icon=&icon_color=23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/hwanghaein&count_bg=B266FF&title_bg=%23D1A0FF&icon=tencentqq.svg&icon_color=%23F876E3&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhwanghaein&count_bg=%23FFA8EF&title_bg=%23D1A0FF&icon=tencentqq.svg&icon_color=%23F876E3&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
