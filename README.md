@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi!%20I'm%20Hyein!&fontColor=FFFFFF&animation=scaleIn&fontSize=90)
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=footer&height=120)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=footer)
