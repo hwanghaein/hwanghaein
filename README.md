@@ -92,6 +92,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwanghaein&layout=compact)](https://github.com/hwanghaein/github-readme-stats)
 
+pip install -r requirements.txt
+uvicorn main:app --reload
 <img src="http://mazandi.herokuapp.com/api?handle=hwanghaein&theme=cold"/>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
