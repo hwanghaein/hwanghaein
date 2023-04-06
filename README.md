@@ -2,14 +2,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi!%20I'm%20Hyein!&fontColor=FFFFFF&animation=scaleIn&fontSize=90&fontAlignY=38)
 
 <div align="center">
-<h3> Hi there,
+<h3> Hi there
 <br>I'm Haein Hwang, a junior front-end developer.:hatched_chick: </br>
  </h3>
  
 <br>
 <br>
 
-## ✨ UI library ✨
+
+## ✨ Tech Stack ✨
+
+### ✨ UI library ✨
  <p>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
  
@@ -28,7 +31,7 @@
 
 <br>
 
-## ✨ Styling ✨
+### ✨ Styling ✨
  <p>
   <img src="https://img.shields.io/badge/Css Modules-000000?style=flat-square&logo=cssmodules&logoColor=white"/>
  
@@ -37,7 +40,7 @@
 
 <br>
 
-## ✨ Routing ✨
+### ✨ Routing ✨
  <p>
   <img src="https://img.shields.io/badge/React Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white"/>:pencil2: 
 
@@ -47,7 +50,7 @@
 
 <br>
 
-## ✨ Rendering ✨
+### ✨ Rendering ✨
  <p>
 
   <img src="https://img.shields.io/badge/CRA-09D3AC?style=flat-square&logo=createreactapp&logoColor=white"/> 
@@ -57,7 +60,7 @@
 
 <br>
 
-## ✨ Management  ✨
+### ✨ Management  ✨
  <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
@@ -69,7 +72,7 @@
 
 <br>
 
-## ✨ Studying...  ✨
+### ✨ Studying...  ✨
  
  
   
