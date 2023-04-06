@@ -31,7 +31,7 @@
 ### Routing
  <img src="https://img.shields.io/badge/React Router-CA4245?style=flat&logo=reactrouter&logoColor=white"/>:pencil2: 
  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>:pencil2: 
- 
+
 <br>
 
 ### Rendering 
