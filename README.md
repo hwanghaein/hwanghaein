@@ -48,6 +48,8 @@
   <!-- <img src="https://img.shields.io/badge/tistory-000000?style=flat&logo=tistory&logoColor=white"/> -->
 
 <br>
+<br>
+
 
 ## :pencil2:	 Studying... :pencil2:	 
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
@@ -58,7 +60,6 @@
 
 SCSS, Recoil. 
 
-<br>
 <br>
 
 ## 🌈 Follow Me 🌈
