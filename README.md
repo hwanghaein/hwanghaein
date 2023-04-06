@@ -28,7 +28,7 @@
 
 ### Styling
   <div>
-  <img src="https://img.shields.io/badge/Css Modules-000000?style=flat&logo=cssmodules&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Css Modules-1572B6?style=flat&logo=cssmodules&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white"/>✏️
   </div>
 
@@ -37,7 +37,7 @@
 ### Routing
  <div>
  <img src="https://img.shields.io/badge/React Router-CA4245?style=flat&logo=reactrouter&logoColor=white"/>✏️ 
- <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>✏️
+ <img src="https://img.shields.io/badge/Next.js-F7DF1E?style=flat&logo=Next.js&logoColor=white"/>✏️
  </div>
 
 <br>
