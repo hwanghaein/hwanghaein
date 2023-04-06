@@ -87,7 +87,7 @@
 
 ## 📈 My Github Stats 📈
 
-[![haein's github stats](https://github-readme-stats.vercel.app/api?username=hwanghaein&count_private=true&custom_title=혜이니&bg_color=360,43cea2,185a9d&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+[![haein's github stats](https://github-readme-stats.vercel.app/api?username=hwanghaein&count_private=true&custom_title=혜이니&bg_color=360,B266FF,E5CCFF,FFCCFF&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
