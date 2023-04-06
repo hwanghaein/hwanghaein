@@ -6,8 +6,6 @@
 </h3>
  
 <br>
-<br>
-
 
 ## ✨ Tech Stack ✨
 
@@ -51,8 +49,8 @@
 ### Management 
   <div>
   <img src="https://img.shields.io/badge/Git-F05032?style=flate&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github-181717?style=flat-&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/notion-0000006?style=flat&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Github-181717?style=flat-&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-0000006?style=flat&logo=notion&logoColor=white"/>
   <!--<img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white"/>-->
   <!-- <img src="https://img.shields.io/badge/tistory-000000?style=flat&logo=tistory&logoColor=white"/> -->
   </div>
