@@ -37,7 +37,7 @@ Here are some ideas to get you started:
  
   <img src="https://img.shields.io/badge/reacthookform-EC5990?style=flat-square&logo=reacthookform&logoColor=white"/>
  
-   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white":pencil2: />
+   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>:pencil2:
 </p>
 
  <h3> ✨ Styling ✨ </h3>
