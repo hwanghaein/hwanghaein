@@ -69,7 +69,8 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white"/>
- SCSS, Recoil. 
+  <img src="https://img.shields.io/badge/SCSS-FFCA28?style=flat&logo=SCSS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Recoil-FFCA28?style=flat&logo=Recoil&logoColor=white"/>
   </div>
 
 <br>
