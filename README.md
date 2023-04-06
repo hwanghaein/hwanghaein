@@ -5,7 +5,7 @@
 <h3> Hi there 👋
 <br>I'm Haein Hwang, a junior front-end developer.:seedling: </br>
 </h3>
-</div>
+
 
 <br>
 <br>
@@ -93,5 +93,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwanghaein&layout=compact)](https://github.com/hwanghaein/github-readme-stats)
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=hwanghaein&theme=cold)
+</div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
