@@ -14,7 +14,7 @@
 ## ✨ Tech Stack ✨
 
 
-### UI library 
+#### UI library 
 <div>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
@@ -26,7 +26,7 @@
 
 <br>
 
-### Styling
+#### Styling
   <div>
   <img src="https://img.shields.io/badge/Css Modules-1572B6?style=flat&logo=cssmodules&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white"/>✏️
@@ -34,7 +34,7 @@
 
 <br>
 
-### Routing
+#### Routing
  <div>
  <img src="https://img.shields.io/badge/React Router-CA4245?style=flat&logo=reactrouter&logoColor=white"/>✏️ 
  <img src="https://img.shields.io/badge/Next.js-F7DF1E?style=flat&logo=Next.js&logoColor=white"/>✏️
@@ -42,7 +42,7 @@
 
 <br>
 
-### Rendering 
+#### Rendering 
   <div>
   <img src="https://img.shields.io/badge/CRA-09D3AC?style=flat&logo=createreactapp&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
@@ -50,7 +50,7 @@
 
 <br>
 
-### Management 
+#### Management 
   <div>
   <img src="https://img.shields.io/badge/Git-F05032?style=flate&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Github-181717?style=flat-&logo=github&logoColor=white"/>
