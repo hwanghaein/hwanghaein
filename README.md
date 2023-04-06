@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <h3> Hi there,
 <br>I'm Haein Hwang, a junior front-end developer.:hatched_chick: </br>
  </h3>
-
+<br>
 ## ✨ UI library ✨
  <p>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 </p>
 
 
-
+<br>
 ## ✨ Styling ✨
  <p>
   <img src="https://img.shields.io/badge/Css Modules-000000?style=flat-square&logo=cssmodules&logoColor=white"/>
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>:pencil2: 
  </p>
 
-
+<br>
 ## ✨ Routing ✨
  <p>
   <img src="https://img.shields.io/badge/React Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white"/>:pencil2: 
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 </p>
 
 
-
+<br>
 ## ✨ Rendering ✨
  <p>
 
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
 </p>
 
-
+<br>
 ## ✨ Management  ✨
  <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 </p>
 
 
-
+<br>
 ## ✨ Studying...  ✨
  
  
