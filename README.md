@@ -50,7 +50,6 @@
 <br>
 <br>
 
-
 ## :pencil2:	 Studying... :pencil2:	 
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/MobX-FF9955?style=flat&logo=MobX&logoColor=white"/>
@@ -60,6 +59,7 @@
 
 SCSS, Recoil. 
 
+<br>
 <br>
 
 ## 🌈 Follow Me 🌈
