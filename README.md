@@ -3,7 +3,7 @@
 
 <div align="center">
 <h3> Hi there
-<br>I'm Haein Hwang, a junior front-end developer.:hatched_chick: </br>
+<br>I'm Haein Hwang, a junior front-end developer.:seedling: </br>
  </h3>
  
 <br>
