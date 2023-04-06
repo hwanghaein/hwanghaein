@@ -42,14 +42,14 @@ Here are some ideas to get you started:
 
  <h3> ✨ Styling ✨ </h3>
  <p>
-  <img src="https://img.shields.io/badge/cssmodules-000000?style=flat-square&logo=cssmodules&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Css Modules-000000?style=flat-square&logo=cssmodules&logoColor=white"/>
  
-  <img src="https://img.shields.io/badge/sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>:pencil2: 
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>:pencil2: 
  </p>
 
  <h3> ✨ Routing ✨ </h3>
  <p>
-  <img src="https://img.shields.io/badge/reactrouter-CA4245?style=flat-square&logo=reactrouter&logoColor=white"/>:pencil2: 
+  <img src="https://img.shields.io/badge/React Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white"/>:pencil2: 
 
  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>:pencil2: 
 </p>
@@ -58,9 +58,9 @@ Here are some ideas to get you started:
  <h3> ✨ Rendering ✨ </h3>
  <p>
 
-  <img src="https://img.shields.io/badge/createreactapp-09D3AC?style=flat-square&logo=createreactapp&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/CRA-09D3AC?style=flat-square&logo=createreactapp&logoColor=white"/> 
 
- <img src="https://img.shields.io/badge/vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
 </p>
 
 
