@@ -63,7 +63,7 @@
 <br>
 <br>
 
-## 📚 Studying...📚 
+## 📚 Studying... 
   <div>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/MobX-FF9955?style=flat&logo=MobX&logoColor=white"/>
@@ -78,7 +78,7 @@
 <br>
 <br>
 
-## 🌈 Follow Me 🌈
+## 👪 Follow Me 
   <a href=""><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/"/></a>
   <a href="https://www.instagram.com/haeini_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/haeini_/"/></a>
   <a href="mailto:dlsdl9037@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dlsdl9037@gmail.com"/></a>
@@ -87,7 +87,7 @@
 <br>
 <br>
 
-## 📈 My Github Stats 📈
+## 📈 My Github Stats 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhwanghaein&count_bg=%23FFA8EF&title_bg=%23D1A0FF&icon=codeigniter.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -95,9 +95,13 @@
 
 <br>
 
+## 🏆 Trophy 
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=hwanghaein&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
+
+## 📊 Top Langs 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwanghaein&layout=compact)](https://github.com/hwanghaein/github-readme-stats)
 
