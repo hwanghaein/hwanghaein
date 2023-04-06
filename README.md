@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 <br>I'm Haein Hwang, a junior front-end developer.:hatched_chick: </br>
  </h3>
 
-
- <h3> ✨ UI library ✨ </h3>
+--------------------------------------
+###✨ UI library ✨
  <p>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
  
@@ -40,14 +40,18 @@ Here are some ideas to get you started:
    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>:pencil2:
 </p>
 
- <h3> ✨ Styling ✨ </h3>
+
+--------------------------------------
+###✨ Styling ✨
  <p>
   <img src="https://img.shields.io/badge/Css Modules-000000?style=flat-square&logo=cssmodules&logoColor=white"/>
  
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>:pencil2: 
  </p>
 
- <h3> ✨ Routing ✨ </h3>
+
+--------------------------------------
+###✨ Routing ✨
  <p>
   <img src="https://img.shields.io/badge/React Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white"/>:pencil2: 
 
@@ -55,7 +59,8 @@ Here are some ideas to get you started:
 </p>
 
 
- <h3> ✨ Rendering ✨ </h3>
+--------------------------------------
+###✨ Rendering ✨
  <p>
 
   <img src="https://img.shields.io/badge/CRA-09D3AC?style=flat-square&logo=createreactapp&logoColor=white"/> 
@@ -64,7 +69,8 @@ Here are some ideas to get you started:
 </p>
 
 
- <h3> ✨ Management  ✨ </h3>
+--------------------------------------
+###✨ Management  ✨
  <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
@@ -74,9 +80,9 @@ Here are some ideas to get you started:
 </p>
 
 
-<br>
 
- <h3> ✨ Studying...  ✨ </h3>
+--------------------------------------
+###✨ Studying...  ✨
  
  
   
@@ -94,13 +100,14 @@ SCSS, Recoil.
  <p>
  
  </p>
-<h3>🌈 Follow Me 🌈</h3>
+ 
+ --------------------------------------
+###🌈 Follow Me 🌈
 <p>
   <a href=""><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/"/></a>&nbsp
   <a href="https://www.instagram.com/haeini_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/haeini_/"/></a>&nbsp
   <a href="mailto:dlsdl9037@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dlsdl9037@gmail.com"/></a>
 </p>
-</br>
 </div>
 
 
