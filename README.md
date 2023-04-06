@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 <h2> Hi there, </h2>
-<p> I'm Haein Hwang, a junior front-end developer.:four_leaf_clover: </p>
+<p> I'm Haein Hwang, a junior front-end developer.:seed: </p>
 
 
 
