@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi!%20I'm%20Hyein!&fontColor=FFFFFF&animation=scaleIn&fontSize=90&fontAlignY=38)
 
 <div align="center">
-<h3> Hi there
+<h3> Hi there 🤚 => 👋
 <br>I'm Haein Hwang, a junior front-end developer.:seedling: </br>
  </h3>
  
