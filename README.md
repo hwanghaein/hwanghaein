@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 <h2> Hi there, </h2>
-<p> I'm Haein Hwang, a junior front-end developer.:seed: </p>
+<p> I'm Haein Hwang, a junior front-end developer.:hatched_chick: </p>
 
 
 
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
   
-  
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Reduxt&logoColor=white"/>
 
 
 </p>
