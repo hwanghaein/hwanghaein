@@ -91,6 +91,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwanghaein&layout=compact)](https://github.com/hwanghaein/github-readme-stats)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hwanghaein)](https://solved.ac/hwanghaein)<br/>
+[![Solved.ac
+hwanghaein](http://mazassumnida.wtf/api/generate_badge?boj=https://github.com/hwanghaein)](https://solved.ac/https://github.com/hwanghaein)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
