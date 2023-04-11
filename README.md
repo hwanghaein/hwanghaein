@@ -79,7 +79,6 @@
 <br>
 
 ## 👪 Follow Me 
-  <a href=""><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/"/></a>
   <a href="https://www.instagram.com/haeini_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/haeini_/"/></a>
   <a href="mailto:dlsdl9037@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dlsdl9037@gmail.com"/></a>
  <a href="https://dev-ini.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white&link=https://dev-ini.tistory.com"/></a>
