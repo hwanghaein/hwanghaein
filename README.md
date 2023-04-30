@@ -83,8 +83,6 @@
   <a href="mailto:dlsdl9037@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dlsdl9037@gmail.com"/></a>
  <a href="https://dev-ini.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white&link=https://dev-ini.tistory.com"/></a>
 
-
-<img src="/>
 <br>
 <br>
 <br>
