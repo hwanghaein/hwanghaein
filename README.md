@@ -22,6 +22,7 @@
  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
  <img src="https://img.shields.io/badge/React Hooks-EC5990?style=flat&logo=reacthookfor&logoColor=white"/>
  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>✏️
+![Bitcoin SV](https://img.shields.io/badge/JavaScript%20SV-EAB300?style=for-the-badge&logo=JavaScript%20SV&logoColor=white)
 
 </div>
 
