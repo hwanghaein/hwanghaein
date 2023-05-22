@@ -41,7 +41,7 @@
 #### *Routing*
  <div>
  <img src="https://img.shields.io/badge/React Router-CA4245?style=flat&logo=reactrouter&logoColor=white"/>✏️ 
- <img src="https://img.shields.io/badge/Next.js-F7DF1E?style=flat&logo=Next.js&logoColor=white"/>✏️
+  <img src="https://img.shields.io/badge/Next.js-D0B336?style=flat&logo=Next.js&logoColor=white"/>✏️
  </div>
 
 <br>
