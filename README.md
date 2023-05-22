@@ -23,6 +23,7 @@
  <img src="https://img.shields.io/badge/React Hooks-EC5990?style=flat&logo=reacthookfor&logoColor=white"/>
  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>✏️
  <img src = "https://img.shields.io/static/v1?label=JavaScript&message=JavaScript&color=F7DF1E"/>
+<img src="https://img.shields.io/badge/JavaScript-JavaScript-F7DF1E"/>
 
 
 </div>
