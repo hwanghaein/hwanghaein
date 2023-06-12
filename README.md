@@ -39,7 +39,7 @@
  <div>
   <img src="https://img.shields.io/badge/Next.js-D0B336?style=flat&logo=Next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/> -->
  </div>
  
  <br>
