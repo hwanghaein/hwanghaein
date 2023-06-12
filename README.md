@@ -83,17 +83,17 @@
 <br>
 <br>
 
-## 📈 My Github Stats 
+<!-- ## 📈 My Github Stats 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhwanghaein&count_bg=%23FFA8EF&title_bg=%23D1A0FF&icon=codeigniter.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![haein's github stats](https://github-readme-stats.vercel.app/api?username=hwanghaein&count_private=true&custom_title=Haein's%20Github&bg_color=360,B266FF,E5CCFF,FFCCFF&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/hwanghaein/github-readme-stats)
+[![haein's github stats](https://github-readme-stats.vercel.app/api?username=hwanghaein&count_private=true&custom_title=Haein's%20Github&bg_color=360,B266FF,E5CCFF,FFCCFF&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/hwanghaein/github-readme-stats) -->
 
 <br>
 
-## 🏆 Trophy 
+<!-- ## 🏆 Trophy 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hwanghaein&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hwanghaein&row=1)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <br>
 
