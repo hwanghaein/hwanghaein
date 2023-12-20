@@ -97,9 +97,9 @@
 
 <br>
 
- <!-- ## 📊 Top Langs 
+ ## 📊 Top Langs 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwanghaein&layout=compact)](https://github.com/hwanghaein/github-readme-stats) --!>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwanghaein&layout=compact)](https://github.com/hwanghaein/github-readme-stats) 
 
 
  <!--![mazandi profile](http://mazandi.herokuapp.com/api?handle=feeelight&theme=warm)/>
