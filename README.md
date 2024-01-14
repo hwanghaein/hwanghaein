@@ -2,9 +2,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi!%20I'm%20Hyein!&fontColor=FFFFFF&animation=scaleIn&fontSize=90&fontAlignY=38)
 
 <div align="center">
-<h3> Hello <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="35" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%;" /> 
-<br>I'm haein, a junior front-end developer.:seedling: </br>
+<h3> Hello!
+<br>I'm haein, a junior front-end developer. :seedling:</br>
+<br>Welcome to my space. If you are curious about my development journal, please also visit T-Story.</br>
+<br> Link :point_right: <a href="https://dev-ini.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white&link=https://dev-ini.tistory.com"/></a> </br>
 </h3>
+
+
+
 
 
 <br>
@@ -77,7 +82,7 @@
 ## 👪 Follow Me 
   <a href="https://www.instagram.com/haeini_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/haeini_/"/></a>
   <a href="mailto:dlsdl9037@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dlsdl9037@gmail.com"/></a>
- <a href="https://dev-ini.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white&link=https://dev-ini.tistory.com"/></a>
+
 
 <br>
 <br>
