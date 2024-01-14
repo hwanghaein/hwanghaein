@@ -5,8 +5,8 @@
 <h3> Hello! :grinning:
 <br>I'm haein, a junior front-end developer. :seedling:</br>
 <br>Welcome to my space. </br>
-<br>If you are curious about my development journal, Please visit T-Story.</br>
-<br> Link :point_right: <a href="https://dev-ini.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white&link=https://dev-ini.tistory.com"/></a> </br>
+<br>If you are curious about my development journal, Please visit my T-Story.</br>
+<br> Link to :point_right: <a href="https://dev-ini.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white&link=https://dev-ini.tistory.com"/></a> </br>
 </h3>
 
 
