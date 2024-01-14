@@ -2,9 +2,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi!%20I'm%20Hyein!&fontColor=FFFFFF&animation=scaleIn&fontSize=90&fontAlignY=38)
 
 <div align="center">
-<h3> Hello!
+<h3> Hello! :grinning:
 <br>I'm haein, a junior front-end developer. :seedling:</br>
-<br>Welcome to my space. If you are curious about my development journal, please also visit T-Story.</br>
+<br>Welcome to my space. </br>
+<br>If you are curious about my development journal, Please visit T-Story.</br>
 <br> Link :point_right: <a href="https://dev-ini.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white&link=https://dev-ini.tistory.com"/></a> </br>
 </h3>
 
