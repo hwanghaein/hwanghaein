@@ -41,7 +41,7 @@
 
 <br>
 
- <!-- #### *Frameworks*-->
+#### *Frameworks*
  <div>
  <img src="https://img.shields.io/badge/Next.js-D0B336?style=flat&logo=Next.js&logoColor=white"/>
 <!--   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/> -->
