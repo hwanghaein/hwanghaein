@@ -33,7 +33,7 @@
 #### *Libraries*
   <div>
  <img src="https://img.shields.io/badge/React-50BCDF?style=flat&logo=React&logoColor=white"/>
- <!--  <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white"/> -->
+  <img src="https://img.shields.io/badge/Tailwind-0769AD?style=flat&logo=Tailwind&logoColor=white"/>
  <!--  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/> -->
  <!--  <img src="https://img.shields.io/badge/MobX-FF9955?style=flat&logo=MobX&logoColor=white"/> -->
  <!-- <img src="https://img.shields.io/badge/Recoil-764ABC?style=flat&logo=Recoil&logoColor=white"/> -->
